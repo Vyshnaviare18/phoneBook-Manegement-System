@@ -95,24 +95,24 @@ phonebook.exe
 
 ---
 
-# 📸 Screenshots
+
+
+## 📸 Screenshots
 
 ### Main Menu
-
-*(Upload menu screenshot here)*
+![Main Menu](main_menu.png)
 
 ### Add Contact
-
-*(Upload add contact screenshot here)*
+![Add Contact](screenshots/add-contact.png)
 
 ### Display Contacts
-
-*(Upload display screenshot here)*
+![Display Contacts](screenshots/display.png)
 
 ### Search Contact
+![Search Contact](screenshots/search.png)
 
-*(Upload search screenshot here)*
-
+### Delete Contact
+![Delete Contact](screenshots/delete.png)
 ---
 
 # 🖥️ Sample Output
