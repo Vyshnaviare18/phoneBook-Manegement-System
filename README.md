@@ -103,16 +103,14 @@ phonebook.exe
 ![Main Menu](main_menu.png)
 
 ### Add Contact
-![Add Contact](screenshots/add-contact.png)
+![Add Contact](add_contact.png)
 
 ### Display Contacts
-![Display Contacts](screenshots/display.png)
+![Display Contacts](display_contact.png)
 
 ### Search Contact
-![Search Contact](screenshots/search.png)
+![Search Contact](search_contact.png)
 
-### Delete Contact
-![Delete Contact](screenshots/delete.png)
 ---
 
 # 🖥️ Sample Output
